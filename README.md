@@ -29,10 +29,15 @@ The Hangman game is a word guessing game. The player must try to guess the corre
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
-
 Feel free to modify and distribute the game according to the terms of the license.
 
 ## Acknowledgements
 
-The implementation of the Hangman game is based on the original code provided by [author's name] [source link], with modifications made for clarity and compatibility.
+The implementation of the Hangman game is based on the instructions provided by Raja Muzammil with modifications made for clarity and compatibility.
+
+## For Queries
+You can contact us via email.
+1. 2021ce48@student.uet.edu.pk
+2. 2021ce46@student.uet.edu.pk
+3. 2021ce45@student.uet.edu.pk
+4. 2021ce31@student.uet.edu.pk
